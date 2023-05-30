@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.efficient_work_app">
+    package="com.example.hw5_water_drinking_app">
    <application
-        android:label="efficient_work_app"
+        android:label="hw5_water_drinking_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

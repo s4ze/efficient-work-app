@@ -7,6 +7,8 @@ environment:
   sdk: '>=2.19.4 <3.0.0'
 
 dependencies:
+  sizer: ^2.0.15
+  google_fonts: ^4.0.4
   flutter:
     sdk: flutter
 
