@@ -1,7 +1,7 @@
 name: efficient_work_app
 description: A new Flutter project.
 publish_to: 'none'
-version: 0.1.0
+version: 1.0.1
 
 environment:
   sdk: '>=2.19.4 <3.0.0'
@@ -9,6 +9,7 @@ environment:
 dependencies:
   sizer: ^2.0.15
   google_fonts: ^4.0.4
+  intl: ^0.18.1
   flutter:
     sdk: flutter
 
