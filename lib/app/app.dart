@@ -168,7 +168,7 @@ class AppState extends State<App> {
   void addToDoItem(String todo) {
     setState(() {
       todoList.add(ToDo(
-        id: DateTime.now().microsecondsSinceEpoch.toInt(),
+        id: DateTime.now().millisecondsSinceEpoch.toInt(),
         text: todo,
       ));
     });
